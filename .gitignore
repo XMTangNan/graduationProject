@@ -1,0 +1,12 @@
+# 备份目录（本地历史副本，不入库）
+doc/_backup/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Office 临时锁文件与系统文件
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
